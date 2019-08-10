@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font-family:combria,"hoefler text","Liberation serif", Times, "times New Roman","serif";
+    font-size:60px
+    font-weight:70px;
+	color:blue;
+	background-color: aquamarine;
+	text-align: centre;
+	
+}
+
+h2[{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	font-size:50px;
+	font-weight: 680;
+	color:yellow;
+	text-align:left;
+}
+h3{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+		font-size:48px;
+	font-weight:550;
+	color:green;
+	text-align:left;
+	
+}
+
+p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+		font-size:40px;
+	font-weight:500px;
+	color:hotpink;
